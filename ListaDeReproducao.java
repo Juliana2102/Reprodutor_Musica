@@ -6,14 +6,14 @@ public class ListaDeReproducao {
     private int tempoTotal;
 
     public void adicionarMusica(Musica musica) {
-        // Lógica para adicionar música à lista de reprodução
+    
     }
 
     public void removerMusica(Musica musica) {
-        // Lógica para remover música da lista de reprodução
+       
     }
 
     public void proximaMusica() {
-        // Lógica para reproduzir a próxima música da lista
+      
     }
 }
